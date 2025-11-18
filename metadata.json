@@ -1,0 +1,7 @@
+{
+  "name": "English Hub-SMK NEGERI 9 HALTENG",
+  "description": "An interactive application for high school students at SMK NEGERI 9 HALTENG to learn English, covering grammar, reading, writing, listening, and speaking skills through AI-powered exercises.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
